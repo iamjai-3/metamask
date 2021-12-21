@@ -9,7 +9,7 @@ const Login = () => {
       <h1>Login Screen</h1>
       <div className="flex flex-col absolute z-50 h-4/6 w-full items-center justify-center space-y-4">
         <Image
-          src="https://links.papareact.com/3pi"
+          src="https://www.gstatic.com/devrel-devsite/prod/v84e6f6a61298bbae5bb110c196e834c7f21fe3fb34e722925433ddb936d280c9/developers/images/touchicon-180.png"
           className="object-cover rounded-full"
           height={200}
           width={200}
